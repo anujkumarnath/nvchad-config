@@ -5,7 +5,8 @@
 local M = {}
 
 M.ui = {
-	theme = "onedark",
+	theme = "yoru",
+	transparency = true,
 
 	statusline = {
 		theme = "minimal",
